@@ -1,3 +1,4 @@
+import React from 'react';
 import { Card, CardContent } from "../components/ui/card";
 import { MapPin, Train, Coffee, Utensils, Calendar, PlaneTakeoff, Bed, Landmark, ShoppingBag } from "lucide-react";
 
